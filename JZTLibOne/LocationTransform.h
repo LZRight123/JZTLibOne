@@ -6,6 +6,7 @@
 //  Copyright © 2017年 梁泽. All rights reserved.
 //
 //修改后的。。。
+// V 0.0.3
 #import <Foundation/Foundation.h>
 
 @interface LocationTransform : NSObject
